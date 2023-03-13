@@ -1,2 +1,2 @@
 # DataScienceEcosystem
-Please read the DataScienceEcosystem.ipynd
+Please read the DataScienceEcosystem.ipynd file.
